@@ -175,4 +175,4 @@ cython_debug/
 
 
 # Sensitive Django settings
-bookstore/settings.py
+#bookstore/settings.py
